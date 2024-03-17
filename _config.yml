@@ -12,7 +12,7 @@ title                    : "Shuyu Chang (常舒予)"
 title_separator          : "-"
 name                     : &name "Shuyu Chang"
 description              : &description "personal description"
-url                      : https://changshuyu.github.io/
+url                      : https://changshuyu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/ChangShuyu/changshuyu.github.io"
 
