@@ -14,7 +14,6 @@ I am currently a Ph.D. student from the School of Computer Science at Nanjing Un
 # Publications 
 
 You can also find my articles on my [DBLP](https://dblp.uni-trier.de/pid/314/4070.html). 
-
 ### 2024
 
 - (Preprint) <u>Shuyu Chang</u>, Rui Wang, Peng Ren, Haiping Huang. **Enhanced Short Text Modeling: Leveraging Large Language Models for Topic Refinement**. URL: [https://arxiv.org/abs/2403.17706](https://arxiv.org/abs/2403.17706)
