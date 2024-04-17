@@ -47,7 +47,7 @@ You can also find my articles on my [DBLP](https://dblp.uni-trier.de/pid/314/407
 - **Artificial Intelligence:** *Deep learning, Large language models, Prompt engineering, Topic modeling, Self-supervised learning, etc.*
 - **Deep Learning Framework:** *PyTorch, HuggingFace transformers, Tensorflow (Part).*
 - **Coding**: *Python, Java, C++.*
-- **Privacy Protection:** *Federated learning, Differential privacy.*
+- **Privacy Protection:** *Federated learning, Differential privacy, Searchable encryption.*
 - **Languages:** *Strong reading, writing, and basic English speaking competencies, Fluent Mandarin Chinese.*
 - **Miscellaneous:** *LaTeX typesetting and publishing.*
 
