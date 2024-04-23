@@ -17,7 +17,7 @@ You can also find my articles on my [DBLP](https://dblp.uni-trier.de/pid/314/407
 ### 2024
 
 - (Preprint) <u>Shuyu Chang</u>, Rui Wang, Peng Ren, Haiping Huang. **Enhanced Short Text Modeling: Leveraging Large Language Models for Topic Refinement**. URL: [https://arxiv.org/abs/2403.17706](https://arxiv.org/abs/2403.17706)
-- (TIFS) <u>Shuyu Chang</u>, Zhenqi Shi, Chaorun Sun, Haiping Huang, Xingchen Liu, Fu Xiao. **Privacy-Enhanced Frequent Sequence Mining and Retrieval for Personalized Behavior Prediction**. In *IEEE Transactions on Information Forensics and Security*. (*Accept*)
+- (TIFS) <u>Shuyu Chang</u>, Zhenqi Shi, Chaorun Sun, Haiping Huang, Xingchen Liu, Fu Xiao. **Privacy-Enhanced Frequent Sequence Mining and Retrieval for Personalized Behavior Prediction**. In *IEEE Transactions on Information Forensics and Security*. DOI: [10.1109/TIFS.2024.3391928](https://doi.org/10.1109/TIFS.2024.3391928)
 
 ### 2021
 
