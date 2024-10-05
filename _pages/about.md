@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student from the School of Computer Science at Nanjing University of Posts and Telecommunications, under the supervision of Prof. Haiping Huang. Before that, I received my B.E. degree from the same university in 2021. My research focuses on privacy-preserving machine learning, natural language processing, AI for software security, and trustworthy AI.
+I am a Ph.D. student at the School of Computer Science, Nanjing University of Posts and Telecommunications, supervised by Prof. Haiping Huang. I obtained my B.E. degree from the same institution in 2021. My research interests include privacy-preserving machine learning, natural language processing, AI for software security, and trustworthy AI. Currently, I am a visiting student at the School of Information and Communication Technology, Griffith University, working under the supervision of [Prof. Leo Yu Zhang](https://leozhangcs.github.io/) and [Prof. Yanjun Zhang](https://profiles.uts.edu.au/Yanjun.Zhang).
 
 <br>
 
@@ -39,7 +39,7 @@ You can also find my articles on my [DBLP](https://dblp.uni-trier.de/pid/314/407
 
 - (2022 – 2024) **PhD Student Researcher.** OPPO, "Privacy-Enhancing Techniques in Machine Learning on Smartphones"
   - Role: *Formal analysis, Methodology, Software*
-  - Tools: *Java, Python, TensorFlow, Differential privacy, Federated learning, Random forest, Frequent pattern mining, Clustering*
+  - Tools: *Java, Python, TensorFlow, Differential privacy, Federated learning, Machine learning*
 
 <br>
 
