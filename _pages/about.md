@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the School of Computer Science, Nanjing University of Posts and Telecommunications, supervised by Prof. Haiping Huang. I obtained my B.E. degree from the same institution in 2021. My research interests include privacy-preserving machine learning, natural language processing, AI for software security, and trustworthy AI. Currently, I am a visiting student at the School of Information and Communication Technology, Griffith University, working under the supervision of [Prof. Leo Yu Zhang](https://leozhangcs.github.io/) and [Prof. Yanjun Zhang](https://profiles.uts.edu.au/Yanjun.Zhang).
+I am a Ph.D. student at the School of Computer Science, Nanjing University of Posts and Telecommunications, supervised by Prof. Haiping Huang. I obtained my B.E. degree from the same institution in 2021. My research interests include privacy-preserving machine learning, natural language processing, AI for software security, and trustworthy AI. Currently, I am a visiting student at the School of Information and Communication Technology, Griffith University, working under the supervision of [Prof. Leo Zhang](https://leozhangcs.github.io/) and [Prof. Yanjun Zhang](https://profiles.uts.edu.au/Yanjun.Zhang).
 
 <br>
 
