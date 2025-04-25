@@ -17,7 +17,9 @@ You can also find my articles on my [DBLP](https://dblp.uni-trier.de/pid/314/407
 ### 2025
 - (DASFAA'25) <u>Shuyu Chang</u>, Rui Wang, Peng Ren, Qi Wang, Haiping Huang. **A Large Language Model Guided Topic Refinement Mechanism for Short Text Modeling**. In *Proceedings of the 30th International Conference on Database Systems for Advanced Applications*. URL: [Arxiv](https://arxiv.org/abs/2403.17706)
 
+
 - (WWW'25) Rui Wang, Jiahao Lu, Xincheng Lv, <u>Shuyu Chang</u>, Yansheng Wu, Yuanzhi Yao, Haiping Huang, Guozi Sun. **Mining User Preferences from Online Reviews with the Genre-aware Personalized neural Topic Model**. In *Proceedings of The Web Conference 2025*. DOI: [10.1145/3696410.3714775](https://doi.org/10.1145/3696410.3714775)
+
 
 - (WSDM'25) Rui Wang, Xing Liu, Yanan Wang, <u>Shuyu Chang</u>, Yuanzhi Yao, Haiping Huang. **Mining Topics towards ChatGPT Using a Disentangled Contextualized-neural Topic Model**. In *Proceedings of the 18th ACM International Conference on Web Search and Data Mining*. DOI: [10.1145/3701551.3703534](https://doi.org/10.1145/3701551.3703534)
 
