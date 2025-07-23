@@ -34,29 +34,3 @@ You can also find my articles on my [DBLP](https://dblp.uni-trier.de/pid/314/407
 
 
 
-<br>
-
-# Projects
-
-- (2024 - Present) **PhD Student Researcher.** Open Fund of Provincial Key Laboratory, "Deep Learning-Based Smart Contract Vulnerability Detection and Robustness Assessment"
-  - Role: *Conceptualization, Formal analysis, Methodology*
-  - Tools: *Python, Solidity, Pytorch, Prompt engineering, Adversarial attack and defense*
-
-
-
-
-- (2022 – 2024) **PhD Student Researcher.** OPPO, "Privacy-Enhancing Techniques in Machine Learning on Smartphones"
-  - Role: *Formal analysis, Methodology, Software*
-  - Tools: *Java, Python, TensorFlow, Differential privacy, Federated learning, Machine learning*
-
-<br>
-
-# Skills
-
-- **Artificial Intelligence:** *Deep learning, Large language models, Prompt engineering, Topic modeling, Self-supervised learning, etc.*
-- **Deep Learning Framework:** *PyTorch, HuggingFace transformers, Tensorflow (Part).*
-- **Coding**: *Python, Java, C++.*
-- **Privacy Protection:** *Federated learning, Differential privacy, Searchable encryption.*
-- **Languages:** *Strong reading, writing, and basic English speaking competencies, Fluent Mandarin Chinese.*
-- **Miscellaneous:** *LaTeX typesetting and publishing.*
-
