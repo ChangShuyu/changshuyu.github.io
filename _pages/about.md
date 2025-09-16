@@ -15,6 +15,8 @@ I am a Ph.D. student at the School of Computer Science, Nanjing University of Po
 
 You can also find my articles on my [DBLP](https://dblp.uni-trier.de/pid/314/4070.html). 
 ### 2025
+- (JSS) <u>Shuyu Chang</u>, Chen Geng, Haiping Huang, Rui Wang, Qi Li, Yang Zhang. **CodeSpeak: Improving Smart Contract Vulnerability Detection via LLM-Assisted Code Analysis**. In *Journal of Systems and Software*.
+
 - (DASFAA'25) <u>Shuyu Chang</u>, Rui Wang, Peng Ren, Qi Wang, Haiping Huang. **A Large Language Model Guided Topic Refinement Mechanism for Short Text Modeling**. In *Proceedings of the 30th International Conference on Database Systems for Advanced Applications*. URL: [Arxiv](https://arxiv.org/abs/2403.17706)
 
 
