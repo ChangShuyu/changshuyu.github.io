@@ -17,7 +17,7 @@ You can also find my articles on my [DBLP](https://dblp.uni-trier.de/pid/314/407
 ### 2025
 - (JSS) <u>Shuyu Chang</u>, Chen Geng, Haiping Huang, Rui Wang, Qi Li, Yang Zhang. **CodeSpeak: Improving Smart Contract Vulnerability Detection via LLM-Assisted Code Analysis**. In *Journal of Systems and Software*. URL: [10.1016/j.jss.2025.112635](https://doi.org/10.1016/j.jss.2025.112635)
 
-- (DASFAA'25) <u>Shuyu Chang</u>, Rui Wang, Peng Ren, Qi Wang, Haiping Huang. **A Large Language Model Guided Topic Refinement Mechanism for Short Text Modeling**. In *Proceedings of the 30th International Conference on Database Systems for Advanced Applications*. URL: [Arxiv](https://arxiv.org/abs/2403.17706)
+- (DASFAA'25) <u>Shuyu Chang</u>, Rui Wang, Peng Ren, Qi Wang, Haiping Huang. **A Large Language Model Guided Topic Refinement Mechanism for Short Text Modeling**. In *Proceedings of the 30th International Conference on Database Systems for Advanced Applications*. URL: [10.1007/978-981-95-3830-0_32)](https://doi.org/10.1007/978-981-95-3830-0_32)
 
 
 - (WWW'25) Rui Wang, Jiahao Lu, Xincheng Lv, <u>Shuyu Chang</u>, Yansheng Wu, Yuanzhi Yao, Haiping Huang, Guozi Sun. **Mining User Preferences from Online Reviews with the Genre-aware Personalized neural Topic Model**. In *Proceedings of The Web Conference 2025*. DOI: [10.1145/3696410.3714775](https://doi.org/10.1145/3696410.3714775)
