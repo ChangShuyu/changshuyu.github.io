@@ -14,6 +14,10 @@ I am a Ph.D. student at the School of Computer Science, Nanjing University of Po
 # Publications 
 
 You can also find my articles on my [DBLP](https://dblp.uni-trier.de/pid/314/4070.html). 
+### 2026
+- (AAAI'26) <u>Shuyu Chang</u>, Haiping Huang, Yanjun Zhang, Yujin Huang, Fu Xiao, Leo Yu Zhang. **Transferable Backdoor Attacks for Code Models via Sharpness-Aware Adversarial Perturbation**. In *Proceedings of the 40th AAAI Conference on Artificial Intelligence*. URL: [10.1609/aaai.v40i1.36964](https://doi.org/10.1609/aaai.v40i1.36964)
+
+
 ### 2025
 - (JSS) <u>Shuyu Chang</u>, Chen Geng, Haiping Huang, Rui Wang, Qi Li, Yang Zhang. **CodeSpeak: Improving Smart Contract Vulnerability Detection via LLM-Assisted Code Analysis**. In *Journal of Systems and Software*. URL: [10.1016/j.jss.2025.112635](https://doi.org/10.1016/j.jss.2025.112635)
 
