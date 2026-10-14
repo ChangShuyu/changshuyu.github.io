@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the School of Computer Science, Nanjing University of Posts and Telecommunications, supervised by Prof. Haiping Huang. I obtained my B.E. degree from the same institution in 2021. My research interests include privacy-preserving machine learning, natural language processing, AI for software security, and trustworthy AI. Currently, I am a remote visiting student at the School of Information and Communication Technology, Griffith University, working under the guidance of [Prof. Leo Zhang](https://leozhangcs.github.io/) and [Prof. Yanjun Zhang](https://profiles.uts.edu.au/Yanjun.Zhang).
+I am a Ph.D. candidate at the School of Computer Science, Nanjing University of Posts and Telecommunications, supervised by Prof. Haiping Huang, and expect to graduate in June 2027. I obtained my B.E. degree from the same institution in 2021. My research interests include trustworthy AI, AI for software security, and differential privacy. From 2024 to 2026, I was a remote visiting Ph.D. student at Griffith University, working under the guidance of [Prof. Leo Zhang](https://leozhangcs.github.io/) and [Prof. Yanjun Zhang](https://profiles.uts.edu.au/Yanjun.Zhang).
 
 <br>
 
@@ -37,5 +37,16 @@ You can also find my articles on my [DBLP](https://dblp.uni-trier.de/pid/314/407
 
 - (MONET) <u>Shuyu Chang</u>, Rui Wang, Haiping Huang, Jian Luo. **TA-BiLSTM: An Interpretable Topic-Aware Model for Misleading Information Detection in Mobile Social Networks**. In *Mobile Networks and Applications*. DOI: [10.1007/s11036-021-01847-w](https://doi.org/10.1007/s11036-021-01847-w)
 
+<br>
 
+# Service
 
+### Reviewer
+- IEEE Transactions on Information Forensics and Security (TIFS)
+- IEEE Transactions on Dependable and Secure Computing (TDSC)
+- ACM Transactions on Software Engineering and Methodology (TOSEM)
+- IEEE Transactions on Knowledge and Data Engineering (TKDE)
+- The Web Conference (WWW) 2027
+
+### Program Committee
+- SiMLA 2026: Technical Program Committee Member
